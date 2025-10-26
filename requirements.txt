@@ -27,3 +27,6 @@ scikit-learn
 
 # Web Application UI
 streamlit
+
+# Data validation & data parsing library
+pydantic
